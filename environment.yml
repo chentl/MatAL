@@ -1,0 +1,28 @@
+name: matal-py10
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - dill
+  - matplotlib
+  - jupyterlab
+  - pandas
+  - numpy==1.23.1
+  - scikit-learn
+  - scipy
+  - tensorflow=2.10
+  - scikit-optimize
+  - tqdm
+  - seaborn
+  - ipywidgets
+  - shap
+  - lz4
+  - vtk
+  - pypdf2
+  - opencv
+  - openpyxl
+  - scienceplots
+  - scikit-image
+  - ipympl
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/matal-py10

@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+venv
+venv/
+
+# PyCharm
+.idea
+
+# TensorBoard logs
+tb-logs/
+report.log
