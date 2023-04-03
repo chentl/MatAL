@@ -1,5 +1,7 @@
 ## MatAL
 
+Codes for "Machine Intelligence-Accelerated Discovery of All-Natural Plastic Substitutes".
+
 ### Python environment & JupyterLab setup
 
 ```python
