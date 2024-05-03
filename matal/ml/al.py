@@ -70,7 +70,7 @@ class CompositionGenerator:
             self._pred_cache = [c for c in self.perf_func(self._comp_cache)]
 
     def optimize(self):
-        global comps, idx
+        # global comps, idx
         # Initialize comps and calculate its score
         best_comps = [self._get_rand_comp() for _ in range(self.n_comps)]
         best_score = self.score_comps(best_comps, perf_func=self.perf_func)
