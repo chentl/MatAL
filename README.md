@@ -17,6 +17,7 @@ jupyter lab
 
 - ```design_boundary.ipynb```: Feasibility design boundary
 - ```data_augmentation.ipynb```: Data augmentation for model training
-- ```active_leaerning.ipynb```: Composition genration in active learning
+- ```active_learning.ipynb```: Composition genration in active learning
 - ```plot_shaps.ipynb```: SHAP analysis
 - ```reverse_design.ipynb```: Reverse design based on performance requirements
+- ```hpopt.py```: Hyperparameter optimization for ANN models 
